@@ -8,6 +8,8 @@
  *
  * Big O looks for how well does a algorithm scales as the input
  * grows larger/bigger.
+ *
+ * Efficiency: O(1).
  */
 
 public class ConstantTime {
